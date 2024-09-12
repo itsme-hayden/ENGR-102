@@ -22,3 +22,6 @@ from math import *
 #       that checks wether or not the coeffiecent is non-zero
 #
 # example print statment: print(f"The quadratic equation is ")
+
+A = float(input("Please enter the coeffiecient A: "))
+A = float(input("Please enter the coeffiecient A: "))
